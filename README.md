@@ -175,15 +175,16 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                  <img class=" img-fluid" src="img/about/logo.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2009-2011</h4>
-                    <h4 class="subheading">Our Humble Beginnings</h4>
+                    <h4>2011</h4>
+                    <h4 class="subheading">Cuando GDP nació</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Todo empezó con un sueño de poder crear nuestro propio videojuego
+                      utilizando todos los conocimientos que recabamos durante nuestro universidad, logrando de esta manera poder juntar 3 áreas diferentes que desarrollamos de manera individual siendo las áreas de desarollo de videojuegos, diseño y programación orientada en videojuegos.</p>
                   </div>
                 </div>
               </li>
