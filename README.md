@@ -256,8 +256,8 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-              <h4>Kay Garland</h4>
+              <img class="mx-auto rounded-circle" src="img/team/putito2.jpg" alt="">
+              <h4>Luis Vázquez Casique</h4>
               <p class="text-muted">Lead Designer</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
@@ -280,8 +280,8 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-              <h4>Larry Parker</h4>
+              <img class="mx-auto rounded-circle" src="img/team/putito.jpg" alt="">
+              <h4>Juan Navarrete Morales</h4>
               <p class="text-muted">Lead Marketer</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
@@ -304,8 +304,8 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
-              <h4>Diana Pertersen</h4>
+              <img class="mx-auto rounded-circle" src="img/team/elmasvergas.jpg" alt="">
+              <h4>Mauricio Manzano Canto</h4>
               <p class="text-muted">Lead Developer</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
